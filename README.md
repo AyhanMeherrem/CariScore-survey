@@ -2,7 +2,7 @@
 
 Survey app comparing AI-generated caricatures to reference photos.
 
-**Live site:** (https://cari-score-survey.vercel.app/)
+**Live site:** https://cari-score-survey.vercel.app/
 
 ## Run locally
 
