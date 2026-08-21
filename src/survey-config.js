@@ -41,7 +41,7 @@ function buildCaricaturePage(referenceImage, resolvedItem, posInRef, totalInRef,
   const pairKey = `${resolvedItem.referenceId}_${resolvedItem.method}`;
   return {
     name: `page_${pairKey}`,
-    title: `Referans ${refIndex + 1}/${totalRefs} — Karikatür ${posInRef + 1}/${totalInRef}`,
+    title: `Reference ${refIndex + 1}/${totalRefs} — Caricature ${posInRef + 1}/${totalInRef}`,
     elements: [
       {
         type: "html",
@@ -49,12 +49,12 @@ function buildCaricaturePage(referenceImage, resolvedItem, posInRef, totalInRef,
         html: `
           <div class="image-compare">
             <div class="image-compare__col">
-              <div class="image-compare__label">Referans Fotoğraf</div>
-              <img src="/${referenceImage}" class="image-compare__img" alt="Referans" />
+              <div class="image-compare__label">Reference Photo</div>
+              <img src="/${referenceImage}" class="image-compare__img" alt="Reference photo" />
             </div>
             <div class="image-compare__col">
-              <div class="image-compare__label">Karikatür</div>
-              <img src="/${resolvedItem.image}" class="image-compare__img" alt="Karikatür" />
+              <div class="image-compare__label">Caricature</div>
+              <img src="/${resolvedItem.image}" class="image-compare__img" alt="Caricature" />
             </div>
           </div>`,
       },
@@ -64,6 +64,8 @@ function buildCaricaturePage(referenceImage, resolvedItem, posInRef, totalInRef,
         title: q.title,
         rateMin: 1,
         rateMax: 5,
+        minRateDescription: "Strongly Disagree",
+        maxRateDescription: "Strongly Agree",
         isRequired: true,
       })),
     ],
@@ -101,7 +103,7 @@ export function buildSurveyJson(manifest) {
   });
 
   const surveyJson = {
-    title: "Karikatür Değerlendirme Anketi",
+    title: "Caricature Evaluation Survey",
     showProgressBar: "top",
     showQuestionNumbers: "off",
     pages,

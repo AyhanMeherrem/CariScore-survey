@@ -45,7 +45,7 @@ function buildRatingsFromResolvedStimuli(resolvedStimuli, rawData) {
 
 async function sendResults(payload) {
   if (!RESULTS_ENDPOINT) {
-    console.warn("VITE_RESULTS_ENDPOINT tanımlı değil — sonuçlar sunucuya gönderilemiyor, yerel olarak indiriliyor.");
+    console.warn("VITE_RESULTS_ENDPOINT is not set — results cannot be sent to the server, downloading locally instead.");
     downloadJson(payload, `caricature_survey_${payload.participant_id}.json`);
     return;
   }
@@ -59,7 +59,7 @@ async function sendResults(payload) {
     });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
   } catch (err) {
-    console.error("Sonuçlar sunucuya gönderilemedi, yedek olarak cihaza indiriliyor:", err);
+    console.error("Failed to send results to the server, falling back to a local download:", err);
     downloadJson(payload, `caricature_survey_${payload.participant_id}.json`);
   }
 }
@@ -72,15 +72,15 @@ async function init() {
     manifest = await res.json();
   } catch (err) {
     showError(
-      "stimuli-manifest.json yüklenemedi. Önce <code>npm run generate-manifest</code> çalıştırıp " +
-        "dev sunucusunu yeniden başlatın."
+      "Could not load stimuli-manifest.json. Run <code>npm run generate-manifest</code> first, then " +
+        "restart the dev server."
     );
     console.error(err);
     return;
   }
 
   if (!manifest.stimuli || manifest.stimuli.length === 0) {
-    showError("Manifest boş: CaricatureImages klasöründe hiç geçerli çift bulunamadı.");
+    showError("Manifest is empty: no valid pairs were found in the CaricatureImages folder.");
     return;
   }
 
