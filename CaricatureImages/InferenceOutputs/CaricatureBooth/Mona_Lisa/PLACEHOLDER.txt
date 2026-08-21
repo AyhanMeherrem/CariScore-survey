@@ -1,0 +1,1 @@
+This image is a placeholder. The original CaricatureBooth output for this person was missing from the source data (delivered folder had 0 files here). Replace 01_seed_100.png with the real caricature when available and delete this marker file.

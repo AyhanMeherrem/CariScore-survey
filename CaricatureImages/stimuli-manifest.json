@@ -1,0 +1,877 @@
+{
+  "generatedAt": "2026-08-21T07:31:43.674Z",
+  "references": [
+    {
+      "id": "Abraham_Lincoln",
+      "referenceImage": "People/Abraham_Lincoln.jpg"
+    },
+    {
+      "id": "Anthony_Hopkins",
+      "referenceImage": "People/Anthony_Hopkins.jpg"
+    },
+    {
+      "id": "Audrey_Hepburn",
+      "referenceImage": "People/Audrey_Hepburn.jpg"
+    },
+    {
+      "id": "Barack_Obama",
+      "referenceImage": "People/Barack_Obama.jpg"
+    },
+    {
+      "id": "Chow_Yun-Fat",
+      "referenceImage": "People/Chow_Yun-Fat.jpg"
+    },
+    {
+      "id": "George_Clooney",
+      "referenceImage": "People/George_Clooney.jpg"
+    },
+    {
+      "id": "Mona_Lisa",
+      "referenceImage": "People/Mona_Lisa.jpg"
+    },
+    {
+      "id": "Whoopi_Goldberg",
+      "referenceImage": "People/Whoopi_Goldberg.jpg"
+    }
+  ],
+  "methods": [
+    "CaricatureBooth",
+    "CaricHarmony",
+    "DemoCaricature",
+    "PuLID"
+  ],
+  "stimuli": [
+    {
+      "referenceId": "Abraham_Lincoln",
+      "method": "CaricatureBooth",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/CaricatureBooth/Abraham_Lincoln/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/CaricatureBooth/Abraham_Lincoln/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/CaricatureBooth/Abraham_Lincoln/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/CaricatureBooth/Abraham_Lincoln/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/CaricatureBooth/Abraham_Lincoln/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "Abraham_Lincoln",
+      "method": "CaricHarmony",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/CaricHarmony/Abraham_Lincoln/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/CaricHarmony/Abraham_Lincoln/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/CaricHarmony/Abraham_Lincoln/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/CaricHarmony/Abraham_Lincoln/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/CaricHarmony/Abraham_Lincoln/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "Abraham_Lincoln",
+      "method": "DemoCaricature",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/DemoCaricature/Abraham_Lincoln/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/DemoCaricature/Abraham_Lincoln/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/DemoCaricature/Abraham_Lincoln/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/DemoCaricature/Abraham_Lincoln/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/DemoCaricature/Abraham_Lincoln/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "Abraham_Lincoln",
+      "method": "PuLID",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/PuLID/Abraham_Lincoln/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/PuLID/Abraham_Lincoln/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/PuLID/Abraham_Lincoln/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/PuLID/Abraham_Lincoln/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/PuLID/Abraham_Lincoln/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "Anthony_Hopkins",
+      "method": "CaricatureBooth",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/CaricatureBooth/Anthony_Hopkins/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/CaricatureBooth/Anthony_Hopkins/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/CaricatureBooth/Anthony_Hopkins/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/CaricatureBooth/Anthony_Hopkins/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/CaricatureBooth/Anthony_Hopkins/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "Anthony_Hopkins",
+      "method": "CaricHarmony",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/CaricHarmony/Anthony_Hopkins/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/CaricHarmony/Anthony_Hopkins/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/CaricHarmony/Anthony_Hopkins/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/CaricHarmony/Anthony_Hopkins/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/CaricHarmony/Anthony_Hopkins/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "Anthony_Hopkins",
+      "method": "DemoCaricature",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/DemoCaricature/Anthony_Hopkins/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/DemoCaricature/Anthony_Hopkins/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/DemoCaricature/Anthony_Hopkins/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/DemoCaricature/Anthony_Hopkins/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/DemoCaricature/Anthony_Hopkins/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "Anthony_Hopkins",
+      "method": "PuLID",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/PuLID/Anthony_Hopkins/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/PuLID/Anthony_Hopkins/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/PuLID/Anthony_Hopkins/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/PuLID/Anthony_Hopkins/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/PuLID/Anthony_Hopkins/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "Audrey_Hepburn",
+      "method": "CaricatureBooth",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/CaricatureBooth/Audrey_Hepburn/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/CaricatureBooth/Audrey_Hepburn/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/CaricatureBooth/Audrey_Hepburn/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/CaricatureBooth/Audrey_Hepburn/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/CaricatureBooth/Audrey_Hepburn/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "Audrey_Hepburn",
+      "method": "CaricHarmony",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/CaricHarmony/Audrey_Hepburn/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/CaricHarmony/Audrey_Hepburn/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/CaricHarmony/Audrey_Hepburn/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/CaricHarmony/Audrey_Hepburn/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/CaricHarmony/Audrey_Hepburn/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "Audrey_Hepburn",
+      "method": "DemoCaricature",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/DemoCaricature/Audrey_Hepburn/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/DemoCaricature/Audrey_Hepburn/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/DemoCaricature/Audrey_Hepburn/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/DemoCaricature/Audrey_Hepburn/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/DemoCaricature/Audrey_Hepburn/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "Audrey_Hepburn",
+      "method": "PuLID",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/PuLID/Audrey_Hepburn/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/PuLID/Audrey_Hepburn/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/PuLID/Audrey_Hepburn/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/PuLID/Audrey_Hepburn/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/PuLID/Audrey_Hepburn/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "Barack_Obama",
+      "method": "CaricatureBooth",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/CaricatureBooth/Barack_Obama/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/CaricatureBooth/Barack_Obama/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/CaricatureBooth/Barack_Obama/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/CaricatureBooth/Barack_Obama/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/CaricatureBooth/Barack_Obama/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "Barack_Obama",
+      "method": "CaricHarmony",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/CaricHarmony/Barack_Obama/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/CaricHarmony/Barack_Obama/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/CaricHarmony/Barack_Obama/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/CaricHarmony/Barack_Obama/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/CaricHarmony/Barack_Obama/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "Barack_Obama",
+      "method": "DemoCaricature",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/DemoCaricature/Barack_Obama/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/DemoCaricature/Barack_Obama/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/DemoCaricature/Barack_Obama/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/DemoCaricature/Barack_Obama/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/DemoCaricature/Barack_Obama/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "Barack_Obama",
+      "method": "PuLID",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/PuLID/Barack_Obama/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/PuLID/Barack_Obama/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/PuLID/Barack_Obama/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/PuLID/Barack_Obama/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/PuLID/Barack_Obama/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "Chow_Yun-Fat",
+      "method": "CaricatureBooth",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/CaricatureBooth/Chow_Yun-Fat/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/CaricatureBooth/Chow_Yun-Fat/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/CaricatureBooth/Chow_Yun-Fat/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/CaricatureBooth/Chow_Yun-Fat/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/CaricatureBooth/Chow_Yun-Fat/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "Chow_Yun-Fat",
+      "method": "CaricHarmony",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/CaricHarmony/Chow_Yun-Fat/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/CaricHarmony/Chow_Yun-Fat/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/CaricHarmony/Chow_Yun-Fat/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/CaricHarmony/Chow_Yun-Fat/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/CaricHarmony/Chow_Yun-Fat/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "Chow_Yun-Fat",
+      "method": "DemoCaricature",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/DemoCaricature/Chow_Yun-Fat/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/DemoCaricature/Chow_Yun-Fat/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/DemoCaricature/Chow_Yun-Fat/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/DemoCaricature/Chow_Yun-Fat/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/DemoCaricature/Chow_Yun-Fat/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "Chow_Yun-Fat",
+      "method": "PuLID",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/PuLID/Chow_Yun-Fat/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/PuLID/Chow_Yun-Fat/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/PuLID/Chow_Yun-Fat/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/PuLID/Chow_Yun-Fat/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/PuLID/Chow_Yun-Fat/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "George_Clooney",
+      "method": "CaricatureBooth",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/CaricatureBooth/George_Clooney/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/CaricatureBooth/George_Clooney/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/CaricatureBooth/George_Clooney/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/CaricatureBooth/George_Clooney/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/CaricatureBooth/George_Clooney/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "George_Clooney",
+      "method": "CaricHarmony",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/CaricHarmony/George_Clooney/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/CaricHarmony/George_Clooney/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/CaricHarmony/George_Clooney/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/CaricHarmony/George_Clooney/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/CaricHarmony/George_Clooney/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "George_Clooney",
+      "method": "DemoCaricature",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/DemoCaricature/George_Clooney/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/DemoCaricature/George_Clooney/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/DemoCaricature/George_Clooney/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/DemoCaricature/George_Clooney/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/DemoCaricature/George_Clooney/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "George_Clooney",
+      "method": "PuLID",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/PuLID/George_Clooney/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/PuLID/George_Clooney/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/PuLID/George_Clooney/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/PuLID/George_Clooney/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/PuLID/George_Clooney/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "Mona_Lisa",
+      "method": "CaricatureBooth",
+      "placeholder": true,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/CaricatureBooth/Mona_Lisa/01_seed_100.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "Mona_Lisa",
+      "method": "CaricHarmony",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/CaricHarmony/Mona_Lisa/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/CaricHarmony/Mona_Lisa/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/CaricHarmony/Mona_Lisa/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/CaricHarmony/Mona_Lisa/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/CaricHarmony/Mona_Lisa/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "Mona_Lisa",
+      "method": "DemoCaricature",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/DemoCaricature/Mona_Lisa/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/DemoCaricature/Mona_Lisa/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/DemoCaricature/Mona_Lisa/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/DemoCaricature/Mona_Lisa/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/DemoCaricature/Mona_Lisa/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "Mona_Lisa",
+      "method": "PuLID",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/PuLID/Mona_Lisa/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/PuLID/Mona_Lisa/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/PuLID/Mona_Lisa/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/PuLID/Mona_Lisa/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/PuLID/Mona_Lisa/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "Whoopi_Goldberg",
+      "method": "CaricatureBooth",
+      "placeholder": true,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/CaricatureBooth/Whoopi_Goldberg/01_seed_100.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "Whoopi_Goldberg",
+      "method": "CaricHarmony",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/CaricHarmony/Whoopi_Goldberg/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/CaricHarmony/Whoopi_Goldberg/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/CaricHarmony/Whoopi_Goldberg/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/CaricHarmony/Whoopi_Goldberg/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/CaricHarmony/Whoopi_Goldberg/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "Whoopi_Goldberg",
+      "method": "DemoCaricature",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/DemoCaricature/Whoopi_Goldberg/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/DemoCaricature/Whoopi_Goldberg/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/DemoCaricature/Whoopi_Goldberg/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/DemoCaricature/Whoopi_Goldberg/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/DemoCaricature/Whoopi_Goldberg/05_seed_104.png"
+        }
+      ]
+    },
+    {
+      "referenceId": "Whoopi_Goldberg",
+      "method": "PuLID",
+      "placeholder": false,
+      "variants": [
+        {
+          "variant": "01_seed_100.png",
+          "image": "InferenceOutputs/PuLID/Whoopi_Goldberg/01_seed_100.png"
+        },
+        {
+          "variant": "02_seed_101.png",
+          "image": "InferenceOutputs/PuLID/Whoopi_Goldberg/02_seed_101.png"
+        },
+        {
+          "variant": "03_seed_102.png",
+          "image": "InferenceOutputs/PuLID/Whoopi_Goldberg/03_seed_102.png"
+        },
+        {
+          "variant": "04_seed_103.png",
+          "image": "InferenceOutputs/PuLID/Whoopi_Goldberg/04_seed_103.png"
+        },
+        {
+          "variant": "05_seed_104.png",
+          "image": "InferenceOutputs/PuLID/Whoopi_Goldberg/05_seed_104.png"
+        }
+      ]
+    }
+  ]
+}

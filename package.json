@@ -1,0 +1,19 @@
+{
+  "name": "caricature-surveyjs",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "generate-manifest": "node scripts/generate-manifest.js",
+    "dev": "npm run generate-manifest && vite",
+    "build": "npm run generate-manifest && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "survey-core": "^1.12.24",
+    "survey-js-ui": "^1.12.24"
+  },
+  "devDependencies": {
+    "vite": "^5.4.10"
+  }
+}
